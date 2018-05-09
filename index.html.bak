@@ -52,8 +52,8 @@
           <img src="/img/avatar.jpg">
         </a>
         <hgroup class="introduce">
-          <h5 class="nickname">John Doe</h5>
-          <a href="mailto:634206017@qq.com" title="634206017@qq.com" class="mail">634206017@qq.com</a>
+          <h5 class="nickname">张销峰</h5>
+          <a href="mailto:mr_zxf0105@163.com" title="mr_zxf0105@163.com" class="mail">mr_zxf0105@163.com</a>
         </hgroup>
       </div>
     </div>
@@ -126,7 +126,7 @@
             <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="back">
                 <i class="icon icon-lg icon-chevron-left"></i>
             </a>
-            <input type="text" id="key" class="search-input" autocomplete="off" placeholder="検索">
+            <input type="text" id="key" class="search-input" autocomplete="off" placeholder="检索">
             <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="search">
                 <i class="icon icon-lg icon-search"></i>
             </a>
@@ -191,7 +191,7 @@ Qu...
     
 
         <a href="/2018/05/09/hello-world/" class="post-more waves-effect waves-button">
-            続きを読む…
+            查看详情
         </a>
     </div>
     
@@ -224,7 +224,7 @@ Qu...
         </p>
     </div>
     <div class="bottom">
-        <p><span>John Doe &copy; 2015 - 2018</span>
+        <p><span>张销峰 &copy; 2015 - 2018</span>
             <span>
                 
                 Power by <a href="http://hexo.io/" target="_blank">Hexo</a> Theme <a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank">indigo</a>
